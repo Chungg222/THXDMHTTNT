@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://ibb.co/60gS1mtX" alt="Logo UNETI" width="130">
+  <img src="https://i.ibb.co/XxSP3b5Y/uneti.png" alt="Logo UNETI" width="150">
 
   <h1>BÀI TẬP THỰC HÀNH XÂY DỰNG MÔ HÌNH TRÍ TUỆ NHÂN TẠO</h1>
 
